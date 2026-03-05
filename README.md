@@ -1,22 +1,3 @@
-<div align="center">
-
-<!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=200&amp;section=header&amp;text=Hyujnn&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20Cloud%20%26%20Cybersecurity&amp;descAlignY=60&amp;descSize=18" />
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=22&amp;duration=2800&amp;pause=800&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi+there!+I'm+Hyujnn;Computer+Science+Student+%40+ESPRIT;Cloud+%26+Cybersecurity+Enthusiast;Building+Secure+and+Scalable+Systems;Always+Learning.+Always+Building." alt="Typing SVG" />
-
-<br/>
-
-<!-- Profile views + followers -->
-<img src="https://komarev.com/ghpvc/?username=Hyujnn54&amp;label=Profile+Views&amp;color=0e75b6&amp;style=flat-square" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Hyujnn54?label=Followers&amp;style=flat-square&amp;color=0e75b6&amp;labelColor=0d1117" alt="Followers" />
-
-</div>
-
----
-
 ## 🌐 Portfolio
 
 <div align="center">
@@ -31,35 +12,19 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Mohamed Ben Moussa**, a Computer Science student at **ESPRIT** with a deep passion for building secure, scalable systems. I spend my time exploring how things work under the hood — from low-level C programming to cloud infrastructure and cybersecurity.
+Hey, I'm **Mohamed Ben Moussa** — a Computer Science student at **ESPRIT** (École Supérieure Privée d'Ingénierie et de Technologies) with a strong focus on cloud computing, cybersecurity, and systems programming.
 
-```yaml
-name:        Mohamed Ben Moussa (Hyujnn)
-university:  ESPRIT — École Supérieure Privée d'Ingénierie et de Technologies
-degree:      Computer Science (Engineering)
-focus:
-  - Cloud Computing & Distributed Systems
-  - Cybersecurity & Encryption
-  - Networking & System Architecture
-  - Software Engineering & Design Patterns
-languages:   [C, C++, Python, Java]
-tools:       [Git, Linux, MySQL, Maven, JavaFX, Symfony]
-currently:
-  - Building PPW — an AES-256 encrypted password manager in Python
-  - Developing Talent Bridge — a full-stack HR recruitment platform in Java
-  - Learning cloud architecture and network security fundamentals
-goals:
-  - Deepen expertise in cloud platforms (AWS / GCP)
-  - Contribute to open-source security tooling
-  - Work on real-world cybersecurity challenges
-motto:       "Always learning. Always building. ⭐"
-```
+I enjoy diving deep into how things work under the hood — whether that's writing efficient C programs, designing secure architectures, or exploring network protocols. I believe in building things that are not just functional, but resilient and secure.
 
-| 🎓 Education | 💻 Core Skills | 🎯 Current Focus |
-|:---:|:---:|:---:|
-| CS @ ESPRIT | C · C++ · Python · Java | Cloud & Cybersecurity |
-| University Project Lead | JavaFX · MySQL · Maven | Networking & Security |
-| 127+ Contributions | AES-256 · REST APIs | System Architecture |
+- 🎓 Studying **Computer Science Engineering** at ESPRIT, Tunisia
+- 🔐 Passionate about **Cybersecurity**, **Encryption**, and **Secure System Design**
+- ☁️ Exploring **Cloud Computing** (AWS / GCP) and distributed architecture
+- 🛠️ Building **PPW** — an AES-256 encrypted password manager in Python
+- 🚀 Developing **Talent Bridge** — a full-stack HR recruitment platform in Java
+- 🌱 Learning cloud architecture and network security fundamentals
+- 💡 Goal: contribute to open-source security tooling and tackle real-world cybersecurity challenges
+
+> *"Always learning. Always building. ⭐"*
 
 ---
 
