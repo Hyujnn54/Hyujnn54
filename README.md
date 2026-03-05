@@ -38,6 +38,8 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hyujnn54&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
 </p>
