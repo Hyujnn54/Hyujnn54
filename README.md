@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%9A%80_View_My_Portfolio-00F7FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117&color=00F7FF)](https://hyujnn54.github.io)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%9A%80_View_My_Portfolio-9D4EDD?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117&color=9D4EDD)](https://hyujnn54.github.io)
 
 > Browse my projects, stats, and more at **[hyujnn54.github.io](https://hyujnn54.github.io)**
 
@@ -57,30 +57,48 @@ I enjoy diving deep into how things work under the hood — whether that's writi
 
 ## 🏆 GitHub Trophies
 
+<div align="center">
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Hyujnn54&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyujnn54&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyujnn54&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
+<div align="center">
+
 ![Streak](https://streak-stats.demolab.com/?user=Hyujnn54&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
+<div align="center">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyujnn54&theme=react-dark&hide_border=true&bg_color=0d1117&area=true)
+
+</div>
 
 ---
 
 ## 📊 Detailed GitHub Analytics
+
+<div align="center">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyujnn54&theme=github_dark)
 
@@ -89,20 +107,30 @@ I enjoy diving deep into how things work under the hood — whether that's writi
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyujnn54&theme=github_dark)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyujnn54&theme=github_dark&utcOffset=1)
 
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
 
+<div align="center">
+
 ![Contribution Snake](https://raw.githubusercontent.com/Hyujnn54/Hyujnn54/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=github-pages&logoColor=0d1117)](https://hyujnn54.github.io)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=github-pages&logoColor=white)](https://hyujnn54.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-mohamed.ben.moussa54123-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ben.moussa54123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ben_Moussa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ben-moussa-303065363/)
 [![GitHub](https://img.shields.io/badge/GitHub-Hyujnn54-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hyujnn54)
+
+</div>
 
 ---
 
