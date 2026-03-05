@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hyujnn&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Cloud%20%26%20Cybersecurity&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=200&amp;section=header&amp;text=Hyujnn&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20Cloud%20%26%20Cybersecurity&amp;descAlignY=60&amp;descSize=18" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Hyujnn;Computer+Science+Student+%40+ESPRIT;Cloud+%26+Cybersecurity+Enthusiast;Building+Secure+and+Scalable+Systems;Always+Learning.+Always+Building." alt="Typing SVG" />
@@ -167,6 +167,6 @@ motto:      "Always learning. Always building. ⭐"
 
 <p><strong>⭐ Always learning. Always building.</strong></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=100&amp;section=footer" />
 
 </div>
