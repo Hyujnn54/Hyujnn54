@@ -44,5 +44,5 @@
 ## 🔥 Contribution Heat Map
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Azer-khadhraoui" alt="Azer's Github chart" />
+  <img src="https://ghchart.rshah.org/409ba5/Hyujnn54" alt="Hyujnn's Github chart" />
 </div>
