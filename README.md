@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00F7FF&height=200&section=header&text=Hyujnn&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Cloud%20%26%20Cybersecurity&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hyujnn&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Cloud%20%26%20Cybersecurity&descAlignY=60&descSize=18" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Hyujnn+👋;Computer+Science+Student+@+ESPRIT;Cloud+%26+Cybersecurity+Enthusiast+☁️;Building+Secure+and+Scalable+Systems+🔐;Always+Learning.+Always+Building.+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Hyujnn;Computer+Science+Student+%40+ESPRIT;Cloud+%26+Cybersecurity+Enthusiast;Building+Secure+and+Scalable+Systems;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br/>
 
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0d1117&color=00F7FF)](https://hyujnn54.github.io/hyujnn_portfolio)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%9A%80_View_My_Portfolio-00F7FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117&color=00F7FF)](https://hyujnn54.github.io)
 
-> Browse my projects, stats, and more at **[hyujnn54.github.io/hyujnn_portfolio](https://hyujnn54.github.io/hyujnn_portfolio)**
+> Browse my projects, stats, and more at **[hyujnn54.github.io](https://hyujnn54.github.io)**
 
 </div>
 
@@ -142,12 +142,12 @@ motto:      "Always learning. Always building. ⭐"
 
 <p align="center">
 
-<a href="https://hyujnn54.github.io/hyujnn_portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio" />
+<a href="https://hyujnn54.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=github-pages&logoColor=0d1117" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="mailto:mohamed.ben.moussa54123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-mohamed.ben.moussa54123-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: mohamed.ben.moussa54123@gmail.com" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mohamed-ben-moussa-303065363/">
@@ -167,6 +167,6 @@ motto:      "Always learning. Always building. ⭐"
 
 <p><strong>⭐ Always learning. Always building.</strong></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0e75b6,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
 
 </div>
