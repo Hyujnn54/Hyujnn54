@@ -4,14 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=200&amp;section=header&amp;text=Hyujnn&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20Cloud%20%26%20Cybersecurity&amp;descAlignY=60&amp;descSize=18" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Hyujnn;Computer+Science+Student+%40+ESPRIT;Cloud+%26+Cybersecurity+Enthusiast;Building+Secure+and+Scalable+Systems;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=22&amp;duration=2800&amp;pause=800&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi+there!+I'm+Hyujnn;Computer+Science+Student+%40+ESPRIT;Cloud+%26+Cybersecurity+Enthusiast;Building+Secure+and+Scalable+Systems;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile views + followers -->
-<img src="https://komarev.com/ghpvc/?username=Hyujnn54&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Hyujnn54&amp;label=Profile+Views&amp;color=0e75b6&amp;style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Hyujnn54?label=Followers&style=flat-square&color=0e75b6&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/followers/Hyujnn54?label=Followers&amp;style=flat-square&amp;color=0e75b6&amp;labelColor=0d1117" alt="Followers" />
 
 </div>
 
@@ -31,17 +31,35 @@
 
 ## 👨‍💻 About Me
 
+Hi, I'm **Mohamed Ben Moussa**, a Computer Science student at **ESPRIT** with a deep passion for building secure, scalable systems. I spend my time exploring how things work under the hood — from low-level C programming to cloud infrastructure and cybersecurity.
+
 ```yaml
-name:       Mohamed Ben Moussa (Hyujnn)
-education:  Computer Science @ ESPRIT
+name:        Mohamed Ben Moussa (Hyujnn)
+university:  ESPRIT — École Supérieure Privée d'Ingénierie et de Technologies
+degree:      Computer Science (Engineering)
 focus:
-  - Cloud Computing & Cybersecurity
+  - Cloud Computing & Distributed Systems
+  - Cybersecurity & Encryption
   - Networking & System Architecture
-  - Security & Encryption Systems
-languages:  [C, C++, Python, Java]
-currently:  Building real-world projects to sharpen engineering skills
-motto:      "Always learning. Always building. ⭐"
+  - Software Engineering & Design Patterns
+languages:   [C, C++, Python, Java]
+tools:       [Git, Linux, MySQL, Maven, JavaFX, Symfony]
+currently:
+  - Building PPW — an AES-256 encrypted password manager in Python
+  - Developing Talent Bridge — a full-stack HR recruitment platform in Java
+  - Learning cloud architecture and network security fundamentals
+goals:
+  - Deepen expertise in cloud platforms (AWS / GCP)
+  - Contribute to open-source security tooling
+  - Work on real-world cybersecurity challenges
+motto:       "Always learning. Always building. ⭐"
 ```
+
+| 🎓 Education | 💻 Core Skills | 🎯 Current Focus |
+|:---:|:---:|:---:|
+| CS @ ESPRIT | C · C++ · Python · Java | Cloud & Cybersecurity |
+| University Project Lead | JavaFX · MySQL · Maven | Networking & Security |
+| 127+ Contributions | AES-256 · REST APIs | System Architecture |
 
 ---
 
@@ -74,91 +92,52 @@ motto:      "Always learning. Always building. ⭐"
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hyujnn54&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hyujnn54&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Hyujnn54&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&cache_seconds=3600" alt="GitHub Stats" />
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyujnn54&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=3600" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyujnn54&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyujnn54&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hyujnn54&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=3600" alt="Contribution Streak" />
-</p>
+![Streak](https://streak-stats.demolab.com/?user=Hyujnn54&theme=tokyonight&hide_border=true&background=0d1117)
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyujnn54&theme=react-dark&hide_border=true&bg_color=0d1117&area=true&cache_seconds=3600" alt="Activity Graph" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyujnn54&theme=react-dark&hide_border=true&bg_color=0d1117&area=true)
 
 ---
 
 ## 📊 Detailed GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyujnn54&theme=github_dark" alt="Profile Details" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyujnn54&theme=github_dark" alt="Repos per Language" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyujnn54&theme=github_dark" alt="Most Commit Language" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyujnn54&theme=github_dark" alt="Stats Card" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyujnn54&theme=github_dark&utcOffset=1" alt="Productive Time" />
-</p>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyujnn54&theme=github_dark)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyujnn54&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyujnn54&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyujnn54&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hyujnn54&theme=github_dark&utcOffset=1)
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hyujnn54/Hyujnn54/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
-</p>
-
----
-
-## 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/Hyujnn54" alt="Contribution Heatmap" />
-</p>
+![Contribution Snake](https://raw.githubusercontent.com/Hyujnn54/Hyujnn54/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-
-<a href="https://hyujnn54.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=github-pages&logoColor=0d1117" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:mohamed.ben.moussa54123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mohamed.ben.moussa54123-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: mohamed.ben.moussa54123@gmail.com" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mohamed-ben-moussa-303065363/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Ben_Moussa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/Hyujnn54">
-  <img src="https://img.shields.io/badge/GitHub-Hyujnn54-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=github-pages&logoColor=0d1117)](https://hyujnn54.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-mohamed.ben.moussa54123-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ben.moussa54123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ben_Moussa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ben-moussa-303065363/)
+[![GitHub](https://img.shields.io/badge/GitHub-Hyujnn54-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hyujnn54)
 
 ---
 
