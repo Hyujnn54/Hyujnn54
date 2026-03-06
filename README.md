@@ -19,12 +19,69 @@ I enjoy diving deep into how things work under the hood — whether that's writi
 - 🎓 Studying **Computer Science Engineering** at ESPRIT, Tunisia
 - 🔐 Passionate about **Cybersecurity**, **Encryption**, and **Secure System Design**
 - ☁️ Exploring **Cloud Computing** (AWS / GCP) and distributed architecture
-- 🛠️ Building **PPW** — an AES-256 encrypted password manager in Python
-- 🚀 Developing **Talent Bridge** — a full-stack HR recruitment platform in Java
-- 🌱 Learning cloud architecture and network security fundamentals
+- � Shipped **[PPW v1.0.0](https://github.com/Hyujnn54/PPW/releases/latest)** — AES-256-GCM encrypted password manager with browser extension
+- 🌉 Developing **[Talent Bridge](https://github.com/Hyujnn54/Talent-Bridge)** — full-stack HR recruitment platform (Java + Symfony)
+- 🌱 Learning cloud architecture, network security, and enterprise infrastructure
 - 💡 Goal: contribute to open-source security tooling and tackle real-world cybersecurity challenges
 
 > *"Always learning. Always building. ⭐"*
+
+---
+
+## 🗂️ Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [PPW — Password Manager](https://github.com/Hyujnn54/PPW)
+
+[![v1.0.0](https://img.shields.io/badge/version-1.0.0-6c63ff.svg)](https://github.com/Hyujnn54/PPW/releases) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/Hyujnn54/PPW) [![Windows](https://img.shields.io/badge/Windows-0078d4?logo=windows&logoColor=white)](https://github.com/Hyujnn54/PPW)
+
+Desktop password manager for Windows. Every password encrypted with **AES-256-GCM** on-device before anything touches the cloud. PBKDF2-HMAC-SHA256 key derivation (100k rounds), 5-attempt lockout, **browser extension** for Chrome/Firefox/Edge.
+
+`Python` · `PyQt6` · `AES-256-GCM` · `MongoDB` · `MV3 Extension`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌉 [Talent Bridge](https://github.com/Hyujnn54/Talent-Bridge)
+
+[![Status](https://img.shields.io/badge/status-ongoing-yellow)](https://github.com/Hyujnn54/Talent-Bridge) [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://github.com/Hyujnn54/Talent-Bridge)
+
+Full-stack HR recruitment platform (ESPRIT PI). JavaFX desktop + Symfony web phase. Role-based access (Candidate / Recruiter / Admin), **AI-assisted screening** (Grok/Groq), **face recognition login** (Luxand), Jitsi interview links, geolocation, analytics dashboard, automated email/SMS.
+
+`Java 17` · `JavaFX` · `MySQL` · `Maven` · `Symfony 6` · `Grok AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [Consulting Desktop App](https://github.com/advisioo/DesktopAPP)
+
+[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://github.com/advisioo/DesktopAPP) [![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)](https://github.com/advisioo/DesktopAPP)
+
+Qt/C++ desktop app for career consulting — manages meetings, certificates, and learning paths. Paired with an **Arduino module** for room occupancy tracking, adaptive lighting, and RFID access control.
+
+`C++` · `Qt` · `Arduino` · `RFID`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕹️ [Shadows of Liberty](https://github.com/Aziz-BenLamine/Shadows-Of-Liberty)
+
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://github.com/Aziz-BenLamine/Shadows-Of-Liberty) [![SDL](https://img.shields.io/badge/SDL2-1E3A5F?logoColor=white)](https://github.com/Aziz-BenLamine/Shadows-Of-Liberty)
+
+2D game built in **C with SDL2** — collaborative university project. Also built a physical **Arduino game controller** with custom hardware interfaced directly with the game.
+
+`C` · `SDL2` · `Arduino`
+
+</td>
+</tr>
+</table>
+
+> 🌐 **Enterprise Network Architecture (2025)** — Designed a multi-department enterprise network in GNS3 with DHCP, OSPF, DNS, NAT. Led the IT department monitoring layer: **Grafana + Prometheus** for real-time metrics across all departments.
 
 ---
 
@@ -36,14 +93,18 @@ I enjoy diving deep into how things work under the hood — whether that's writi
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools & Frameworks
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### ☁️ Learning & Interests
