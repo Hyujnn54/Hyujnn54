@@ -1,6 +1,6 @@
 # Mohamed Ben Moussa
 
-Computer Science Engineering student focused on cybersecurity, cloud infrastructure, networking, and systems programming.
+Computer Science Engineering student focused on cybersecurity, infrastructure, networking, and systems-oriented software. I build projects around secure application design, enterprise networking, observability, and desktop and web platforms.
 
 <div align="center">
 
@@ -11,73 +11,61 @@ Computer Science Engineering student focused on cybersecurity, cloud infrastruct
 
 </div>
 
-## About Me
+## Focus Areas
 
-I am a Computer Science Engineering student at ESPRIT in Tunisia. My work focuses on secure software, enterprise infrastructure, cloud platforms, networking, and low-level systems.
-
-I am most interested in projects that combine engineering depth with real operational concerns, especially secure application design, observability, infrastructure, and network architecture.
-
-## Profile
-
-- Interests: cybersecurity, infrastructure, observability, networking, and systems programming
-- Strengths: secure application development, network design, monitoring, and backend engineering
-- Open to: internships and serious project work in security, cloud, backend, infrastructure, or systems roles
+- Secure software and applied cryptography
+- Cloud, infrastructure, and observability
+- Enterprise networking and systems engineering
+- Backend and desktop application development
 
 ## Featured Projects
 
+### PPW
+
+Windows password manager built with Python and PyQt6, with client-side encryption, MongoDB Atlas persistence, and a local-only browser extension bridge.
+
+- PBKDF2-HMAC-SHA256 key derivation with AES-256-GCM for stored secrets
+- Account lockout logic and session-bound local extension access
+- Packaged Windows release with PyInstaller and Inno Setup
+
+Stack: Python, PyQt6, MongoDB Atlas, JavaScript, applied cryptography  
+Repository: [Hyujnn54/PPW](https://github.com/Hyujnn54/PPW)  
+Release: [Latest release](https://github.com/Hyujnn54/PPW/releases/latest)
+
 ### TechSolutions Enterprise Network and Monitoring Lab
 
-Enterprise network project built in GNS3 for a multi-department environment with segmented LANs, backbone routing, centralized NAT, and an IT-operated monitoring stack.
+Enterprise lab built in GNS3 for a multi-department environment with routed backbone connectivity, centralized NAT, and an IT-operated monitoring stack.
 
-- Owned the IT department segment in a 5-person team project
-- Worked on subnetting, addressing, department-level setup, and backbone integration
-- Deployed Linux virtual machines and configured Prometheus, Grafana, and Node Exporter
-- Applied firewall rules to restrict monitoring dashboards to the IT department
+- Built the IT department segment in a 5-person team project
+- Contributed to subnetting, addressing, routing, and backbone integration
+- Deployed Prometheus, Grafana, and Node Exporter on Linux VMs
+- Applied firewall policy to restrict monitoring dashboards to the IT department
 
-Stack: GNS3, Linux, OSPF, DHCP, DNS, NAT, Prometheus, Grafana, Node Exporter  
+Stack: GNS3, Linux, OSPF, NAT, Prometheus, Grafana, Node Exporter  
 Repository: [Hyujnn54/techsolutions-enterprise-network-lab](https://github.com/Hyujnn54/techsolutions-enterprise-network-lab)
-
-### PPW - Password Manager
-
-Desktop password manager for Windows with local encryption before cloud sync.
-
-- Uses AES-256-GCM for encryption and PBKDF2-HMAC-SHA256 for key derivation
-- Includes account protection with lockout logic after repeated failed attempts
-- Ships with a browser extension for Chrome, Firefox, and Edge
-- Built to emphasize secure local handling of sensitive credentials
-
-Stack: Python, PyQt6, MongoDB, browser extension, applied cryptography  
-Release: [PPW v1.0.0](https://github.com/Hyujnn54/PPW/releases/latest)  
-Repository: [Hyujnn54/PPW](https://github.com/Hyujnn54/PPW)
 
 ### Talent Bridge
 
-Full-stack recruitment platform developed as an ESPRIT project, combining desktop and web workflows.
+Recruitment management platform developed as an ESPRIT project, combining a JavaFX desktop application and a Symfony web phase.
 
-- JavaFX desktop phase and Symfony web phase
-- Role-based access for candidates, recruiters, and administrators
-- AI-assisted screening, interview workflow support, analytics, and communication features
-- Integrates external services such as face recognition, geolocation, and meeting links
+- Role-based workflows for candidates, recruiters, and administrators
+- Job offers, applications, interviews, events, and analytics
+- Integrations for notifications, meeting links, matching, and screening workflows
 
-Stack: Java 17, JavaFX, MySQL, Maven, Symfony 6  
+Stack: Java 17, JavaFX, MySQL, Maven, Symfony 6, PHP 8  
 Repository: [Hyujnn54/Talent-Bridge](https://github.com/Hyujnn54/Talent-Bridge)
 
-## Additional Projects
+## Additional Work
 
-- Consulting desktop application in C++ and Qt with Arduino and RFID integration for room and access management
-- SDL2 game project in C with custom Arduino controller integration
+- C++ and Qt desktop application with Arduino, OpenCV, reporting, and operations management
+- Flutter and Firebase mobile application for football team and match workflows
+- PHP MVC tourism platform with booking, complaint handling, and admin workflows
 
 ## Technical Areas
 
-- Languages: C, C++, Python, Java, PHP
-- Frameworks and tools: Qt, PyQt6, Symfony, Maven, MySQL, MongoDB, Git, Linux, VS Code
-- Core interests: cybersecurity, encryption, networking, cloud computing, observability, system architecture
-
-## Next Direction
-
-- Secure applications with stronger authentication and threat-model-driven design
-- Cloud and infrastructure projects with deployment, monitoring, and automation
-- Networking and systems projects that combine reliability, performance, and security
+- Languages: C, C++, Python, Java, PHP, JavaScript, Dart
+- Frameworks and tools: Qt, PyQt6, JavaFX, Symfony, Flutter, Maven, MySQL, MongoDB, Linux, Git, GNS3
+- Interests: cybersecurity, networking, cloud infrastructure, observability, and system architecture
 
 ## Connect
 
