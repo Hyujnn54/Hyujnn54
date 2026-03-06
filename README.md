@@ -13,15 +13,15 @@ Computer Science Engineering student focused on cybersecurity, cloud infrastruct
 
 ## About Me
 
-I am a Computer Science Engineering student at ESPRIT in Tunisia. My work is centered on building secure and reliable software, with a strong interest in encryption, enterprise infrastructure, cloud platforms, and low-level systems.
+I am a Computer Science Engineering student at ESPRIT in Tunisia. My work focuses on secure software, enterprise infrastructure, cloud platforms, networking, and low-level systems.
 
-I like projects that force me to understand how things work under the hood, whether that means designing a secure desktop application, building a network architecture in GNS3, or integrating observability into a distributed environment.
+I am most interested in projects that combine engineering depth with real operational concerns, especially secure application design, observability, infrastructure, and network architecture.
 
-## Current Focus
+## Profile
 
-- Cybersecurity, infrastructure, and systems-oriented software
-- Cloud, observability, and network engineering
-- Internship and project opportunities in security, cloud, backend, or systems roles
+- Interests: cybersecurity, infrastructure, observability, networking, and systems programming
+- Strengths: secure application development, network design, monitoring, and backend engineering
+- Open to: internships and serious project work in security, cloud, backend, infrastructure, or systems roles
 
 ## Featured Projects
 
@@ -39,7 +39,7 @@ Repository: [Hyujnn54/techsolutions-enterprise-network-lab](https://github.com/H
 
 ### PPW - Password Manager
 
-Desktop password manager for Windows with on-device encryption before cloud sync.
+Desktop password manager for Windows with local encryption before cloud sync.
 
 - Uses AES-256-GCM for encryption and PBKDF2-HMAC-SHA256 for key derivation
 - Includes account protection with lockout logic after repeated failed attempts
@@ -62,18 +62,18 @@ Full-stack recruitment platform developed as an ESPRIT project, combining deskto
 Stack: Java 17, JavaFX, MySQL, Maven, Symfony 6  
 Repository: [Hyujnn54/Talent-Bridge](https://github.com/Hyujnn54/Talent-Bridge)
 
+## Additional Projects
+
+- Consulting desktop application in C++ and Qt with Arduino and RFID integration for room and access management
+- SDL2 game project in C with custom Arduino controller integration
+
 ## Technical Areas
 
 - Languages: C, C++, Python, Java, PHP
 - Frameworks and tools: Qt, PyQt6, Symfony, Maven, MySQL, MongoDB, Git, Linux, VS Code
 - Core interests: cybersecurity, encryption, networking, cloud computing, observability, system architecture
 
-## Additional Experience
-
-- Qt/C++ desktop application for career consulting with Arduino and RFID integration
-- SDL2 game development in C with custom Arduino controller integration
-
-## What I Want To Build Next
+## Next Direction
 
 - Secure applications with stronger authentication and threat-model-driven design
 - Cloud and infrastructure projects with deployment, monitoring, and automation
